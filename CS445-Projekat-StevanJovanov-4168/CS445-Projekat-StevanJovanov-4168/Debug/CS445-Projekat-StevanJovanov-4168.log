@@ -1,0 +1,24 @@
+﻿  GUI.cpp
+C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\CS445-Projekat-StevanJovanov-4168\GUI.cpp(203,26): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\CS445-Projekat-StevanJovanov-4168\GUI.cpp(202,26): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\CS445-Projekat-StevanJovanov-4168\GUI.cpp(201,15): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\CS445-Projekat-StevanJovanov-4168\GUI.cpp(200,15): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\CS445-Projekat-StevanJovanov-4168\GUI.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\CS445-Projekat-StevanJovanov-4168\GUI.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+  CS445-Projekat-StevanJovanov-4168.vcxproj -> C:\Users\steva\OneDrive\Desktop\fax\4\7\CS445\Ispit\CS445-Projekat-StevanJovanov-4168\Debug\CS445-Projekat-StevanJovanov-4168.exe
