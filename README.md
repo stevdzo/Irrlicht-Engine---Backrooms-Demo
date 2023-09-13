@@ -1,13 +1,13 @@
 # Irrlicht-Engine---Backrooms-Demo
 
-First person igra urađena u C++ uz pomoć Irrlicht engine-a. 
-Tema igre je simulacija Backrooms-a.
+First person game made in C++ with Irrlicht engine.
+Theme of the game is simulation of Backrooms.
 
-Kamera se kontroliše pomoću tastera W, A, S, D. 
-Pored standardnih tastera za kretanje, klikom na dugme E igrač vrši interakciju sa svetom igre. 
-Objekti sa kojima može da interaguje su ključevi, vrata, radio I prekidač.
+The player is controlled using the W, A, S, D keys.
+In addition to the standard movement keys, clicking the E button allows the player to interact with the game world.
+The objects it can interact with are keys, doors, a radio, and a switch.
 
-Godina izrade: 2022.
+Year of creation: 2022.
 
 ![ingame1](https://user-images.githubusercontent.com/71758728/226133566-c0631af9-123e-4dcf-9b85-43671dc8864d.jpg)
 
